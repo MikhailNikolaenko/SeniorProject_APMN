@@ -1,1 +1,1 @@
-# SeniorProject_APMN
+# Project HORIZN
